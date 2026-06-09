@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# local environment — contains machine-specific paths, never commit
+.env
